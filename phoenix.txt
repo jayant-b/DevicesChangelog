@@ -1,0 +1,15 @@
+Initial release.
+Working :
+Wifi
+RIL
+Mobile data
+Fingerprint
+GPS
+Camera
+Flashlight
+Camcorder
+Bluetooth
+Lights
+Sound / vibration
+Kanged few from Pixel 4 and RazerPhone
+drm/widewine to 1.2 support
