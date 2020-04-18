@@ -11,5 +11,5 @@ Camcorder
 Bluetooth
 Lights
 Sound / vibration
-Kanged few from Pixel 4 and RazerPhone
+Kanged few from Graphics Pixel 4 and RazerPhone
 drm/widewine to 1.2 support
